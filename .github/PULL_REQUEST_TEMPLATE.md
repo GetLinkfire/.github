@@ -22,6 +22,4 @@ Full URL
 #### Reviewer's checklist
 - [ ] Read Jira issue and comments
 - [ ] Read the PR description, details of the change and guide for testing
-- [ ] Checkout branch and test the new functionality
-- [ ] Build for dev, stage, prod, check for errors
-- [ ] Visually check the button to see if anything is broken
+- [ ] Checkout branch, test the new functionality and validate if it follows the definition of done
